@@ -28,8 +28,8 @@ The following image shows the web application's appearance and functionality:
 
 A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.
 
-<div align="center">
-    <img src="./assets/images/01-html-css-git-homework-demo.png" width="400px"</img> 
+<div>
+    <img src="./assets/images/01-html-css-git-homework-demo.png" width="400px"/> 
 </div>
 
 
