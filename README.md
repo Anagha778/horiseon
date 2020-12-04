@@ -1,6 +1,5 @@
-# Code Refactor Starter Code
-# Horiseon-project
-Horiseon challenge project description
+# Horiseon
+# Horiseon website describes online marketing strategies for businesses.
 
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities can't access their website.
 
@@ -32,9 +31,10 @@ A webpage titled "Horiseon" features a navigation menu in the header, a hero ima
     <img src="./assets/images/01-html-css-git-homework-demo.png" width="400px"/> 
 </div>
 
+# Technologies used:
+HTML
+CSS
 
-https://courses.bootcampspot.com/courses/484/files/336520/download
-
-# Link to deployed application
+# Link to website
 
 https://anagha778.github.io/horiseon/
